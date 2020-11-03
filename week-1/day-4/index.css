@@ -1,3 +1,25 @@
-.border{
-    border:solid 2px black;
-}
+    .column-container {
+    display: table;
+    width: 100%;
+    }
+    .column {
+    display: table-cell;
+    padding: 20px;
+    }
+    .border{
+    border-left: 1px solid black;
+    }
+    h2{
+     font-family: sans-serif;
+     text-align: center;
+     font-weight: 200;
+     font-size: 36px;
+    }
+    .underline{
+     text-decoration: underline ;
+     text-decoration-thickness: 10px;
+    }
+    #col3-header{
+        font-weight: bolder;
+
+    }
